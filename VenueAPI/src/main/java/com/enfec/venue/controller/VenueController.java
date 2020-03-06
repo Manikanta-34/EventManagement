@@ -18,6 +18,7 @@ import com.enfec.venue.service.VenueService;
 import com.google.gson.Gson;
 
 @RestController
+
 public class VenueController {
 	private static final Logger logger = LoggerFactory.getLogger(VenueController.class);
 	@Autowired
