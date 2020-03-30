@@ -90,11 +90,14 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
+<<<<<<< HEAD
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt</artifactId>
 			<version>0.9.1</version>
 		</dependency>
+=======
+>>>>>>> branch 'master' of https://github.com/Manikanta-34/EventManagement.git
 	</dependencies>
 
 	<build>
