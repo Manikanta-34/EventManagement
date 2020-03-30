@@ -16,7 +16,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * Author: Venkat
  * Class: RefBookingStatusApplication
  *
- ************************************************/
+ **************************************************/
 @SpringBootApplication
 @EnableSwagger2
 public class RefBookingStatusApplication extends SpringBootServletInitializer {
