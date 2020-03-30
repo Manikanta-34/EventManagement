@@ -18,9 +18,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  *
 <<<<<<< HEAD
  **************************************************/
-=======
- ************************************************/
->>>>>>> branch 'master' of https://github.com/Manikanta-34/EventManagement.git
+
 @SpringBootApplication
 @EnableSwagger2
 public class RefBookingStatusApplication extends SpringBootServletInitializer {
